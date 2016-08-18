@@ -1,0 +1,28 @@
+name: Hello America
+favicon: null
+layout_spectrum: 0.6922694456297904
+typography_spectrum: 0.5645575211383402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9309894684702158
+  lightness: 0.8057889465708286
+  saturation: 0.5800988548435271
+  rhythmicContrast: 0.3053951549809426
+purpose: []
